@@ -1,26 +1,22 @@
 {
-    {"name": "Fernando", 
-    "age": 22, 
-    "city": "Purisima"},
-    {
-        "age": 30,
-        "cars": [
-            {
-                "model": "BMW 230",
-                "mpg": 27.5
-            },
-            {
-                "model": "Ford Edge",
-                "mpg": 24.1
-            }
-        ],
-        "children": [
-            "Ann",
-            "Billy"
-        ],
-        "divorced": false,
-        "married": true,
-        "name": "John",
-        "pets": null
-    }
+    "age": 30,
+    "cars": [
+        {
+            "model": "BMW 230",
+            "mpg": 27.5
+        },
+        {
+            "model": "Ford Edge",
+            "mpg": 24.1
+        }
+    ],
+    "children": [
+        "Ann",
+        "Billy"
+    ],
+    "divorced": false,
+    "married": true,
+    "name": "John",
+    "pets": null
 }
+
