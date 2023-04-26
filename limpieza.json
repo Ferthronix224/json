@@ -1,0 +1,18 @@
+{
+    "Limpieza":[
+        {
+          "id": 1,
+          "name": "Limpieza",
+          "ciudad": "Leon",
+          "number": "476 743 0555",
+          "address": "Blvd. Juventino Rosas 1106, Rivera del Rio, 36442 San Francisco del Rincón, Gto.",
+          "isDeleted": 0,
+          "CreatedBy": "Fernando",
+          "CreatedDate": "2023-04-23 16:15:35",
+          "UpdatedBy": "Benito",
+          "UpdateDate": "2023-04-23 16:15:35",
+          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
+          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
+        }
+      ]
+}
