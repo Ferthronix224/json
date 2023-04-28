@@ -29,34 +29,6 @@
           "poster_path": "https://www.arqhys.com/wp-content/uploads/2017/11/tipos-de-mantenimiento-correctivo.jpg"
         },
         {
-          "id": 3,
-          "name": "Ciber Ivan",
-          "ciudad": "Purisima del Rincón",
-          "number": "476 743 0555",
-          "address": "Avenida de la Juventud 225, Guanajuatito, 36400 Purisima del Rincón, Gto.",
-          "isDeleted": 0,
-          "CreatedBy": "Benito",
-          "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
-          "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.arqhys.com/wp-content/uploads/2017/11/tipos-de-mantenimiento-correctivo.jpg",
-          "poster_path": "https://www.arqhys.com/wp-content/uploads/2017/11/tipos-de-mantenimiento-correctivo.jpg"
-        },
-        {
-          "id": 4,
-          "name": "Mantenimiento Integral",
-          "ciudad": "Leon",
-          "number": "477 726 9353",
-          "address": "Calzada Guadalupe 415, Manitas, 36442 Leon, Gto.",
-          "isDeleted": 0,
-          "CreatedBy": "Fernando",
-          "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
-          "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
-          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
-        },
-        {
           "id": 5,
           "name": "Servicios de Mantenimiento y Reparacion Residencial",
           "ciudad": "Leon",
@@ -69,48 +41,6 @@
           "UpdateDate": "2023-04-23 16:15:35",
           "backdrop_path": "https://visualmexico.com.mx/wp-content/uploads/2019/11/metal-lathe-maintenance-PUCMHJX-600x400.jpg",
           "poster_path": "https://visualmexico.com.mx/wp-content/uploads/2019/11/metal-lathe-maintenance-PUCMHJX-600x400.jpg"
-        },
-        {
-          "id": 6,
-          "name": "Servicio de Mantenimiento Mosqueda",
-          "ciudad": "Purisima del Rincón",
-          "number": "476 743 0555",
-          "address": "Calle Brisa, Guanajuatito, 36400 Purisima del Rincon, Gto.",
-          "isDeleted": 0,
-          "CreatedBy": "Benito",
-          "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
-          "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
-          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
-        },
-        {
-          "id": 7,
-          "name": "Mantenimiento Integral",
-          "ciudad": "Leon",
-          "number": "477 726 9353",
-          "address": "Calle Espiga 103, San Jose del Consuelo, 36442 Leon, Gto.",
-          "isDeleted": 0,
-          "CreatedBy": "Fernando",
-          "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
-          "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://cursodeinstalador.com/wp-content/uploads/2020/10/servicio-fontaneria.jpg",
-          "poster_path": "https://cursodeinstalador.com/wp-content/uploads/2020/10/servicio-fontaneria.jpg"
-        },
-        {
-          "id": 8,
-          "name": "Servicio y Mantenimiento ALEJIM",
-          "ciudad": "Leon",
-          "number": "462 599 4058",
-          "address": "Yesgo 516, Manitas, 36500 Leon, Gto.",
-          "isDeleted": 0,
-          "CreatedBy": "Israel",
-          "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
-          "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
-          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
         },
         {
           "id": 9,
