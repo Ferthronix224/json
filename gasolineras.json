@@ -1,5 +1,5 @@
 {
-    "results":[
+    "Gasolineras":[
         {
           "id": 1,
           "name": "Pemex",
@@ -11,50 +11,134 @@
           "CreatedDate": "2023-04-23 16:15:35",
           "UpdatedBy": "Benito",
           "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
-          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
+          "backdrop_path": "https://www.elsoldeleon.com.mx/policiaca/q96srk-gasolinera-1.jpg/alternates/LANDSCAPE_768/GASOLINERA%20(1).jpg",
+          "poster_path": "https://www.elsoldeleon.com.mx/policiaca/q96srk-gasolinera-1.jpg/alternates/LANDSCAPE_768/GASOLINERA%20(1).jpg"
         },
         {
           "id": 2,
-          "name": "Pemex 2",
+          "name": "Pemex",
           "ciudad": "Leon",
-          "number": "476 743 0555",
-          "address": "Blvd. Juventino Rosas 1106, Rivera del Rio, 36442 San Francisco del Rincón, Gto.",
+          "number": "477 717 5121",
+          "address": "Adolfo Lopez Mateos S/N, obregon, 37320 León, Gto.",
           "isDeleted": 0,
           "CreatedBy": "Fernando",
           "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
+          "UpdatedBy": "Israel",
           "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
-          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
+          "backdrop_path": "https://newsweekespanol.com/wp-content/uploads/2019/01/Pemex_gas_station-1024x683.jpg",
+          "poster_path": "https://newsweekespanol.com/wp-content/uploads/2019/01/Pemex_gas_station-1024x683.jpg"
         },
         {
           "id": 3,
-          "name": "Pemex 3",
+          "name": "Pemex",
           "ciudad": "Leon",
-          "number": "476 743 0555",
-          "address": "Blvd. Juventino Rosas 1106, Rivera del Rio, 36442 San Francisco del Rincón, Gto.",
+          "number": "477 717 5121",
+          "address": "Jose Maria Morelos 2513, Prado Hermoso 2, 37238 León, Gto.",
           "isDeleted": 0,
           "CreatedBy": "Fernando",
           "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
+          "UpdatedBy": "Israel",
           "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
-          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
+          "backdrop_path": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_667/https://noticierosenlinea.com/wp-content/uploads/2016/12/Gasolineria.jpg",
+          "poster_path": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_667/https://noticierosenlinea.com/wp-content/uploads/2016/12/Gasolineria.jpg"
         },
         {
           "id": 4,
-          "name": "Pemex 4",
-          "ciudad": "Leon",
-          "number": "476 743 0555",
-          "address": "Blvd. Juventino Rosas 1106, Rivera del Rio, 36442 San Francisco del Rincón, Gto.",
+          "name": "Servicios Cementos",
+          "ciudad": "San francisco del Rincón",
+          "number": "476 745 1468",
+          "address": "Lazaro Cardenas 58, Centro, 36300 San Francisco del Rincón, Gto.",
           "isDeleted": 0,
           "CreatedBy": "Fernando",
           "CreatedDate": "2023-04-23 16:15:35",
-          "UpdatedBy": "Benito",
+          "UpdatedBy": "Israel",
           "UpdateDate": "2023-04-23 16:15:35",
-          "backdrop_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg",
-          "poster_path": "https://www.gob.mx/cms/uploads/article/main_image/117994/WhatsApp_Image_2022-02-18_at_11.46.53.jpeg"
+          "backdrop_path": "https://www.altonivel.com.mx/assets/images/gourmet/oxxo-gas-(1).jpg",
+          "poster_path": "https://www.altonivel.com.mx/assets/images/gourmet/oxxo-gas-(1).jpg"
+        },
+        {
+          "id": 5,
+          "name": "Grupo Gasolinero del bajio",
+          "ciudad": "San francisco del Rincón",
+          "number": "476 744 5886",
+          "address": "Villas Florencia1 128, Villas Florencia, 36330 San Francisco del Rincón, Gto.",
+          "isDeleted": 0,
+          "CreatedBy": "Fernando",
+          "CreatedDate": "2023-04-23 16:15:35",
+          "UpdatedBy": "Israel",
+          "UpdateDate": "2023-04-23 16:15:35",
+          "backdrop_path": "https://gasolinerasmx.mx/wp-content/uploads/2021/09/14121.jpg",
+          "poster_path": "https://gasolinerasmx.mx/wp-content/uploads/2021/09/14121.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Oxxo Gas",
+          "ciudad": "San francisco del Rincón",
+          "number": "800 736 3900",
+          "address": "Francisco I Madero 528B, Centro, 36300 San Francisco del Rincón, Gto.",
+          "isDeleted": 0,
+          "CreatedBy": "Fernando",
+          "CreatedDate": "2023-04-23 16:15:35",
+          "UpdatedBy": "Israel",
+          "UpdateDate": "2023-04-23 16:15:35",
+          "backdrop_path": "https://www.altonivel.com.mx/assets/images/gourmet/oxxo-gas-(1).jpg",
+          "poster_path": "https://www.altonivel.com.mx/assets/images/gourmet/oxxo-gas-(1).jpg"
+        },
+        {
+          "id": 7,
+          "name": "Pemex",
+          "ciudad": "Purisima del Rincón",
+          "number": "470 706 1407",
+          "address": "Hermenegildo Bustos 101, Valle de girasoles, 36400 Purisima del Rincón, Gto.",
+          "isDeleted": 0,
+          "CreatedBy": "Benito",
+          "CreatedDate": "2023-04-23 16:15:35",
+          "UpdatedBy": "Israel",
+          "UpdateDate": "2023-04-23 16:15:35",
+          "backdrop_path": "https://energiahoy.com/wp-content/uploads/2020/11/pemex-870x600.jpg",
+          "poster_path": "https://energiahoy.com/wp-content/uploads/2020/11/pemex-870x600.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Mobil",
+          "ciudad": "San francisco del Rincón",
+          "number": "476 744 5218",
+          "address": "blvd. Aquiles Serdan 913 , Centro, 36300 San Francisco del Rincón, Gto.",
+          "isDeleted": 0,
+          "CreatedBy": "Fernando",
+          "CreatedDate": "2023-04-23 16:15:35",
+          "UpdatedBy": "Israel",
+          "UpdateDate": "2023-04-23 16:15:35",
+          "backdrop_path": "https://t21.com.mx/sites/default/files/mobil_gasolineras2.jpg",
+          "poster_path": "https://t21.com.mx/sites/default/files/mobil_gasolineras2.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Grupo Secas Gasolineras",
+          "ciudad": "San francisco del Rincón",
+          "number": "476 744 5218",
+          "address": "blvd. Aquiles Serdan 913 , Centro, 36300 San Francisco del Rincón, Gto.",
+          "isDeleted": 0,
+          "CreatedBy": "Fernando",
+          "CreatedDate": "2023-04-23 16:15:35",
+          "UpdatedBy": "Israel",
+          "UpdateDate": "2023-04-23 16:15:35",
+          "backdrop_path": "https://t21.com.mx/sites/default/files/mobil_gasolineras2.jpg",
+          "poster_path": "https://t21.com.mx/sites/default/files/mobil_gasolineras2.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Soni Gas",
+          "ciudad": "Purisima del Rincón",
+          "number": "800 736 3900",
+          "address": "Carr. Púrisima de Bustos-Manuel Doblado S/N, Centro, 36400 Purisima del Rincón, Gto.",
+          "isDeleted": 0,
+          "CreatedBy": "Israel",
+          "CreatedDate": "2023-04-23 16:15:35",
+          "UpdatedBy": "Fernando",
+          "UpdateDate": "2023-04-23 16:15:35",
+          "backdrop_path": "https://www.puntoporpunto.com/web/wp-content/uploads/2018/11/soni-gas.jpg",
+          "poster_path": "https://www.puntoporpunto.com/web/wp-content/uploads/2018/11/soni-gas.jpg"
         }
       ]
 }
