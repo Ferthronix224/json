@@ -1,0 +1,75 @@
+{
+  "servicios-medicos":[
+    {
+      "id": 1,
+      "name": "Cruz Roja",
+      "ciudad": "San Francisco del Rincon",
+      "number": "476 743 0555",
+      "address": "Blvd. Juventino Rosas 1106, Rivera del Rio, 36442 San Francisco del Rincón, Gto.",
+      "isDeleted": 0,
+      "CreatedBy": "Fernando",
+      "CreatedDate": "2023-04-23 16:15:35",
+      "UpdatedBy": "Benito",
+      "UpdateDate": "2023-04-23 16:15:35",
+      "backdrop_path": "https://www.ricardosalinas.com/blog/images/fotoblogoctubre10.gif",
+      "poster_path": "https://www.ricardosalinas.com/blog/images/fotoblogoctubre10.gif"
+    },
+    {
+      "id": 2,
+      "name": "Servicios Medicos de Purisima",
+      "ciudad": "Purisima del Rincon",
+      "number": "476 743 0555",
+      "address": "Francisco I Madero 116, Zona Centro, 36400 Purisima del Rincón, Gto.",
+      "isDeleted": 0,
+      "CreatedBy": "Israel",
+      "CreatedDate": "2023-04-23 16:15:35",
+      "UpdatedBy": "Benito",
+      "UpdateDate": "2023-04-23 16:15:35",
+      "backdrop_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg",
+      "poster_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Consultorio con servicio de Psicologia",
+      "ciudad": "Purisima del Rincon",
+      "number": "476 743 0555",
+      "address": "Calle de la pradera, Zona Centro, 36400 Purisima del Rincón, Gto.",
+      "isDeleted": 0,
+      "CreatedBy": "Benito",
+      "CreatedDate": "2023-04-23 16:15:35",
+      "UpdatedBy": "Fernando",
+      "UpdateDate": "2023-04-23 16:15:35",
+      "backdrop_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg",
+      "poster_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Policlinica de Especialidades",
+      "ciudad": "San Francisco del Rincon",
+      "number": "476 743 0555",
+      "address": "Federico Medrano 620, Zona Centro, 36442 San Francisco del Rincón, Gto.",
+      "isDeleted": 0,
+      "CreatedBy": "Benito",
+      "CreatedDate": "2023-04-23 16:15:35",
+      "UpdatedBy": "Fernando",
+      "UpdateDate": "2023-04-23 16:15:35",
+      "backdrop_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg",
+      "poster_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg"
+    },
+    { 
+      "id": 5,
+      "name": "Psicologa Diana P.Mendez Guerrero",
+      "ciudad": "Purisima del Rincon",
+      "number": "476 743 0555",
+      "address": "Jose Lopez Mujica 202, Zona Centro, 36400 Purisima del Rincón, Gto.",
+      "isDeleted": 0,
+      "CreatedBy": "Benito",
+      "CreatedDate": "2023-04-23 16:15:35",
+      "UpdatedBy": "Fernando",
+      "UpdateDate": "2023-04-23 16:15:35",
+      "backdrop_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg",
+      "poster_path": "https://www.gtn.mx/wp-content/uploads/2022/04/hospital-purisima-rincon-1024x681.jpg"
+    }
+
+  ]
+}
